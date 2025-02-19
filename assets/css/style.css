@@ -466,6 +466,12 @@ section {
   background-color: #149ddd;
 }
 
+.skill-description {
+  text-align: center;
+  color: gray;
+  font-size: small;
+}
+
 /*--------------------------------------------------------------
 # Resume
 --------------------------------------------------------------*/
